@@ -1,5 +1,6 @@
 ## Hi, I'm Slava! 👋
-
+MLE / Research / Data Scientist 
+I always try to go beyond the scope of the task, trying to understand its deep meaning and meaning in the general context. I'm 1st year student of NUST MISIS in the bachelor's degree program.
 <!--
 **KrutoyarovSL/krutoyarovsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 MLE
