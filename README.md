@@ -3,14 +3,12 @@ MLE / Research / Data Scientist
 
 I always try to go beyond the scope of the task, trying to understand its deep meaning and meaning in the general context. I'm 1st year student of NUST MISIS in the bachelor's degree program.
 
-
-##Educatiion
-1. Deep Learning School [semester 1]
-2. Introduction to Data Science and Machine Learning [certificate]
+- 🔭 I’m currently develops a platform for online sailing training using AI technologies 
+- 🌱 I’m currently learning DL and studying in NUST MISIS
+- 📫 How to reach me: telegram - @krutoyarovsl
 
 <!--
 **KrutoyarovSL/krutoyarovsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-MLE
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
