@@ -1,7 +1,7 @@
 ## Hi, I'm Slava! 👋
 MLE / Research / Data Scientist 
 
-I always try to go beyond the scope of the task, trying to understand its deep meaning and meaning in the general context. I'm 1st year student of NUST MISIS in the bachelor's degree program.
+I always try to go beyond the scope of the task, trying to understand its deep meaning and meaning in the general context. I'm student of NUST MISIS in the bachelor's degree program.
 
 - 🔭 I’m currently develops a platform for online sailing training using AI technologies 
 - 🌱 I’m currently learning DL and studying in NUST MISIS
