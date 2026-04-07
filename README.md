@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/50423328-3b20-4495-b13b-280650ce5a5b" />
+" alt="67" width="600"/>
+</p>
+
+
 ## Hi, I'm Slava! 👋
 MLE/DS
 
